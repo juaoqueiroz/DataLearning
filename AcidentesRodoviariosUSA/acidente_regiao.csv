@@ -1,0 +1,1268 @@
+,Severity,City,Qtd
+0,1,Alpine,1
+1,1,American Canyon,1
+2,1,Bellflower,1
+3,1,Cambridge,1
+4,1,Canyon Country,1
+5,1,Carlsbad,1
+6,1,Chula Vista,1
+7,1,Compton,1
+8,1,Concord,2
+9,1,Corona,1
+10,1,Cotati,1
+11,1,Culver City,1
+12,1,Cupertino,1
+13,1,Danville,1
+14,1,Diamond Bar,1
+15,1,El Sobrante,1
+16,1,Elk Grove,2
+17,1,Fairfield,1
+18,1,Fallbrook,1
+19,1,Fontana,1
+20,1,Fremont,1
+21,1,Fullerton,1
+22,1,Gilroy,1
+23,1,Greenbrae,1
+24,1,Hacienda Heights,1
+25,1,Hayward,1
+26,1,Hollister,1
+27,1,Irwindale,1
+28,1,Lake Elsinore,1
+29,1,Livermore,1
+30,1,Los Altos,1
+31,1,Los Angeles,8
+32,1,Lucerne Valley,1
+33,1,Manteca,1
+34,1,Millbrae,1
+35,1,Milpitas,1
+36,1,Modesto,1
+37,1,Mountain View,1
+38,1,Murrieta,1
+39,1,Newark,1
+40,1,Newport Beach,1
+41,1,Norco,1
+42,1,North Olmsted,1
+43,1,Oak Hills,1
+44,1,Oakland,2
+45,1,Oxnard,1
+46,1,Pittsburg,1
+47,1,Plymouth,1
+48,1,Pomona,1
+49,1,Redwood City,1
+50,1,Riverside,2
+51,1,Rowland Heights,1
+52,1,Sacramento,2
+53,1,San Diego,2
+54,1,San Francisco,3
+55,1,San Jose,5
+56,1,San Leandro,3
+57,1,San Rafael,1
+58,1,San Ramon,1
+59,1,Santa Cruz,1
+60,1,Santa Rosa,1
+61,1,Sausalito,1
+62,1,Signal Hill,1
+63,1,Spring Valley,1
+64,1,Stanford,1
+65,1,Sunnyvale,2
+66,1,Sunol,1
+67,1,Tarzana,1
+68,1,Tracy,1
+69,1,Union City,1
+70,1,Vacaville,1
+71,1,Valley Center,1
+72,1,Valyermo,1
+73,1,Windsor,1
+74,1,Winnetka,1
+75,1,Yorba Linda,1
+76,2,Acampo,90
+77,2,Acton,191
+78,2,Adelanto,1
+79,2,Agoura Hills,90
+80,2,Aguanga,20
+81,2,Akron,4
+82,2,Alameda,3
+83,2,Alamo,37
+84,2,Albany,1
+85,2,Albion,1
+86,2,Alhambra,20
+87,2,Aliso Viejo,12
+88,2,Alpine,41
+89,2,Alta,1
+90,2,Altadena,98
+91,2,Alviso,10
+92,2,Amelia,1
+93,2,American Canyon,37
+94,2,Anaheim,782
+95,2,Angels Camp,27
+96,2,Angelus Oaks,9
+97,2,Angwin,6
+98,2,Annapolis,3
+99,2,Antelope,150
+100,2,Antioch,171
+101,2,Anza,7
+102,2,Apple Valley,16
+103,2,Applegate,1
+104,2,Aptos,119
+105,2,Arbuckle,5
+106,2,Arcadia,25
+107,2,Arleta,1
+108,2,Aromas,25
+109,2,Artesia,90
+110,2,Atherton,2
+111,2,Atwater,38
+112,2,Auburn,218
+113,2,Azusa,92
+114,2,Baldwin Park,33
+115,2,Ballico,1
+116,2,Banning,13
+117,2,Barberton,2
+118,2,Batavia,8
+119,2,Bay Point,34
+120,2,Beaumont,43
+121,2,Beavercreek,2
+122,2,Bell,2
+123,2,Bell Canyon,2
+124,2,Bell Gardens,8
+125,2,Bellflower,187
+126,2,Bellville,1
+127,2,Belmont,66
+128,2,Belvedere Tiburon,9
+129,2,Ben Lomond,19
+130,2,Benicia,9
+131,2,Berkeley,16
+132,2,Bermuda Dunes,6
+133,2,Berry Creek,1
+134,2,Bethel,3
+135,2,Beverly Hills,4
+136,2,Big Bear City,72
+137,2,Big Bear Lake,8
+138,2,Big Sur,1
+139,2,Biggs,3
+140,2,Birds Landing,2
+141,2,Blanchester,1
+142,2,Bloomington,107
+143,2,Blue Jay,2
+144,2,Bodega,2
+145,2,Bodega Bay,23
+146,2,Bolinas,4
+147,2,Bonita,52
+148,2,Bonsall,54
+149,2,Borrego Springs,6
+150,2,Boulder Creek,28
+151,2,Boulevard,11
+152,2,Bowling Green,3
+153,2,Brea,131
+154,2,Brecksville,1
+155,2,Brentwood,108
+156,2,Brisbane,51
+157,2,Brooks,7
+158,2,Browns Valley,1
+159,2,Buena Park,142
+160,2,Burbank,91
+161,2,Burlingame,73
+162,2,Butte City,1
+163,2,Byron,58
+164,2,Cabazon,16
+165,2,Calabasas,158
+166,2,Calimesa,2
+167,2,Calistoga,72
+168,2,Camarillo,164
+169,2,Cameron Park,49
+170,2,Camino,21
+171,2,Camp Pendleton,1
+172,2,Campbell,112
+173,2,Campo,9
+174,2,Camptonville,10
+175,2,Canal Winchester,5
+176,2,Canoga Park,8
+177,2,Canyon Country,181
+178,2,Capay,5
+179,2,Capistrano Beach,2
+180,2,Capitola,29
+181,2,Cardiff By the Sea,2
+182,2,Carlsbad,69
+183,2,Carmel,60
+184,2,Carmel Valley,18
+185,2,Carmichael,257
+186,2,Carpinteria,70
+187,2,Carroll,2
+188,2,Carson,85
+189,2,Casstown,1
+190,2,Castaic,65
+191,2,Castro Valley,240
+192,2,Castroville,66
+193,2,Cazadero,13
+194,2,Cedar Glen,8
+195,2,Cedarpines Park,4
+196,2,Ceres,45
+197,2,Cerritos,333
+198,2,Challenge,1
+199,2,Chatsworth,82
+200,2,Cherry Valley,9
+201,2,Chino,254
+202,2,Chino Hills,53
+203,2,Chualar,2
+204,2,Chula Vista,41
+205,2,Circleville,1
+206,2,Citrus Heights,37
+207,2,City Of Industry,61
+208,2,Claremont,74
+209,2,Clarksburg,13
+210,2,Clayton,14
+211,2,Clearlake,3
+212,2,Clearlake Oaks,11
+213,2,Cleveland,4
+214,2,Cloverdale,32
+215,2,Cobb,1
+216,2,Colfax,9
+217,2,Colton,29
+218,2,Columbus,71
+219,2,Colusa,3
+220,2,Commerce,38
+221,2,Comptche,2
+222,2,Compton,415
+223,2,Concord,331
+224,2,Cool,20
+225,2,Copperopolis,21
+226,2,Corona,804
+227,2,Corona del Mar,1
+228,2,Coronado,14
+229,2,Corte Madera,61
+230,2,Costa Mesa,123
+231,2,Cotati,43
+232,2,Courtland,5
+233,2,Covina,115
+234,2,Coyote,13
+235,2,Crestline,23
+236,2,Crockett,14
+237,2,Crows Landing,8
+238,2,Culver City,48
+239,2,Cupertino,91
+240,2,Cypress,1
+241,2,Daly City,27
+242,2,Dana Point,2
+243,2,Danville,23
+244,2,Davenport,10
+245,2,Davis,46
+246,2,Dayton,282
+247,2,Del Mar,8
+248,2,Delaware,1
+249,2,Delhi,14
+250,2,Denair,10
+251,2,Descanso,9
+252,2,Desert Hot Springs,35
+253,2,Diablo,1
+254,2,Diamond Bar,597
+255,2,Diamond Springs,14
+256,2,Dillon Beach,1
+257,2,Discovery Bay,35
+258,2,Dixon,58
+259,2,Dobbins,1
+260,2,Dos Palos,13
+261,2,Downey,20
+262,2,Downieville,3
+263,2,Duarte,16
+264,2,Dublin,26
+265,2,Dulzura,10
+266,2,Dunnigan,7
+267,2,Dutch Flat,1
+268,2,East Palo Alto,4
+269,2,El Cajon,221
+270,2,El Cerrito,3
+271,2,El Dorado,23
+272,2,El Dorado Hills,137
+273,2,El Macero,1
+274,2,El Monte,16
+275,2,El Segundo,7
+276,2,El Sobrante,73
+277,2,Elk Grove,245
+278,2,Elverta,24
+279,2,Elyria,1
+280,2,Emerald Hills,2
+281,2,Emeryville,10
+282,2,Encinitas,7
+283,2,Encino,217
+284,2,Escalon,47
+285,2,Escondido,118
+286,2,Esparto,13
+287,2,Fair Oaks,231
+288,2,Fairborn,3
+289,2,Fairfax,2
+290,2,Fairfield,84
+291,2,Fallbrook,153
+292,2,Farmington,6
+293,2,Felton,20
+294,2,Fiddletown,3
+295,2,Fillmore,35
+296,2,Findlay,1
+297,2,Firebaugh,3
+298,2,Folsom,96
+299,2,Fontana,199
+300,2,Foothill Ranch,6
+301,2,Forest Falls,6
+302,2,Foresthill,28
+303,2,Forestville,44
+304,2,Fort Bragg,5
+305,2,Foster City,1
+306,2,Fountain Valley,10
+307,2,Frankfort,1
+308,2,Fraziers Bottom,1
+309,2,Freedom,8
+310,2,Fremont,137
+311,2,French Camp,33
+312,2,Fullerton,158
+313,2,Fulton,13
+314,2,Gallipolis,1
+315,2,Galloway,1
+316,2,Galt,117
+317,2,Garden Grove,155
+318,2,Garden Valley,10
+319,2,Gardena,219
+320,2,Georgetown,17
+321,2,Geyserville,24
+322,2,Gilroy,183
+323,2,Glen Ellen,31
+324,2,Glendale,253
+325,2,Glendora,74
+326,2,Glenhaven,1
+327,2,Glenn,1
+328,2,Gold River,6
+329,2,Gold Run,1
+330,2,Goleta,80
+331,2,Gonzales,32
+332,2,Goshen,4
+333,2,Granada Hills,118
+334,2,Grand Terrace,1
+335,2,Granite Bay,79
+336,2,Grass Valley,182
+337,2,Graton,2
+338,2,Greenbrae,40
+339,2,Greenwood,7
+340,2,Gridley,5
+341,2,Grizzly Flats,1
+342,2,Grove City,1
+343,2,Groveport,3
+344,2,Gualala,4
+345,2,Guerneville,33
+346,2,Guinda,1
+347,2,Gustine,21
+348,2,Hacienda Heights,421
+349,2,Half Moon Bay,76
+350,2,Harbor City,33
+351,2,Hawthorne,60
+352,2,Hayward,344
+353,2,Healdsburg,61
+354,2,Hemet,133
+355,2,Herald,7
+356,2,Hercules,18
+357,2,Hesperia,26
+358,2,Hickman,3
+359,2,Hidden Hills,2
+360,2,Highland,39
+361,2,Hilliard,2
+362,2,Hillsborough,1
+363,2,Hilmar,17
+364,2,Hollister,160
+365,2,Homeland,31
+366,2,Hopland,10
+367,2,Hughson,7
+368,2,Huntington Beach,7
+369,2,Huntington Park,99
+370,2,Idyllwild,24
+371,2,Imperial Beach,1
+372,2,Indio,14
+373,2,Inglewood,142
+374,2,Inverness,4
+375,2,Ione,40
+376,2,Irvine,131
+377,2,Irwindale,1
+378,2,Isleton,38
+379,2,Jackson,46
+380,2,Jamestown,4
+381,2,Jamul,45
+382,2,Jenner,16
+383,2,Johnstown,2
+384,2,Joshua Tree,15
+385,2,Julian,28
+386,2,Kelseyville,14
+387,2,Kentfield,10
+388,2,Kenwood,6
+389,2,Keyes,2
+390,2,Knights Landing,2
+391,2,La Canada Flintridge,70
+392,2,La Crescenta,40
+393,2,La Grange,1
+394,2,La Habra,7
+395,2,La Habra Heights,5
+396,2,La Honda,19
+397,2,La Jolla,10
+398,2,La Mesa,104
+399,2,La Mirada,19
+400,2,La Palma,28
+401,2,La Puente,390
+402,2,La Quinta,2
+403,2,La Verne,60
+404,2,Ladera Ranch,75
+405,2,Lafayette,140
+406,2,Laguna Beach,10
+407,2,Laguna Hills,4
+408,2,Laguna Niguel,4
+409,2,Lake Arrowhead,12
+410,2,Lake Elsinore,79
+411,2,Lake Forest,8
+412,2,Lakeport,13
+413,2,Lakeside,144
+414,2,Lakewood,5
+415,2,Landers,8
+416,2,Larkspur,38
+417,2,Lathrop,37
+418,2,Lawndale,23
+419,2,Lebanon,1
+420,2,Lemon Grove,92
+421,2,Lewis Center,1
+422,2,Lincoln,46
+423,2,Linden,34
+424,2,Little River,3
+425,2,Littlerock,20
+426,2,Livermore,164
+427,2,Livingston,7
+428,2,Llano,21
+429,2,Lockbourne,2
+430,2,Lockeford,17
+431,2,Lodi,191
+432,2,Loma Linda,6
+433,2,Lompoc,8
+434,2,London,1
+435,2,Long Beach,356
+436,2,Loomis,22
+437,2,Los Alamitos,13
+438,2,Los Altos,33
+439,2,Los Angeles,4603
+440,2,Los Banos,31
+441,2,Los Gatos,524
+442,2,Lotus,9
+443,2,Lower Lake,8
+444,2,Lucerne,12
+445,2,Lucerne Valley,24
+446,2,Lynwood,21
+447,2,Lytle Creek,3
+448,2,Madison,4
+449,2,Maineville,1
+450,2,Malibu,82
+451,2,Mansfield,1
+452,2,Manteca,194
+453,2,Maple Heights,1
+454,2,March Air Reserve Base,16
+455,2,Marina,20
+456,2,Marina Del Rey,51
+457,2,Marina del Rey,24
+458,2,Marshall,2
+459,2,Martinez,157
+460,2,Marysville,6
+461,2,Mason,1
+462,2,Mather,9
+463,2,Maywood,3
+464,2,McClellan,17
+465,2,Mcclellan,8
+466,2,Meadow Vista,9
+467,2,Mendocino,2
+468,2,Mendota,4
+469,2,Menifee,12
+470,2,Menlo Park,166
+471,2,Mentone,21
+472,2,Merced,5
+473,2,Meridian,1
+474,2,Miamisburg,13
+475,2,Middletown,19
+476,2,Midway City,11
+477,2,Milford,4
+478,2,Mill Valley,108
+479,2,Millbrae,74
+480,2,Milpitas,43
+481,2,Mira Loma,76
+482,2,Mission Hills,72
+483,2,Mission Viejo,7
+484,2,Modesto,225
+485,2,Mokelumne Hill,16
+486,2,Monrovia,17
+487,2,Montara,2
+488,2,Montclair,8
+489,2,Monte Rio,10
+490,2,Monte Sereno,2
+491,2,Montebello,143
+492,2,Monterey,66
+493,2,Monterey Park,64
+494,2,Montrose,17
+495,2,Moorpark,61
+496,2,Moraine,5
+497,2,Moreno Valley,190
+498,2,Morgan Hill,155
+499,2,Morongo Valley,12
+500,2,Moscow,2
+501,2,Moss Beach,15
+502,2,Moss Landing,29
+503,2,Mount Hamilton,6
+504,2,Mountain Center,15
+505,2,Mountain Ranch,10
+506,2,Mountain View,261
+507,2,Mt Baldy,4
+508,2,Muir Beach,2
+509,2,Murrieta,71
+510,2,N/A,1
+511,2,Napa,345
+512,2,National City,44
+513,2,Nevada City,101
+514,2,New Carlisle,1
+515,2,New Richmond,1
+516,2,Newark,37
+517,2,Newbury Park,74
+518,2,Newcastle,24
+519,2,Newhall,231
+520,2,Newman,6
+521,2,Newport Beach,20
+522,2,Newport Coast,3
+523,2,Nicasio,27
+524,2,Nice,2
+525,2,Nicolaus,2
+526,2,Norco,5
+527,2,North Baltimore,1
+528,2,North Highlands,239
+529,2,North Hills,6
+530,2,North Hollywood,320
+531,2,North Olmsted,1
+532,2,North Palm Springs,4
+533,2,North San Juan,3
+534,2,Northridge,6
+535,2,Norwalk,27
+536,2,Novato,185
+537,2,Nuevo,16
+538,2,Oak Hills,11
+539,2,Oak Park,10
+540,2,Oak View,11
+541,2,Oakdale,34
+542,2,Oakland,393
+543,2,Oakley,13
+544,2,Oberlin,1
+545,2,Occidental,17
+546,2,Oceanside,40
+547,2,Ojai,30
+548,2,Olivehurst,5
+549,2,Ontario,204
+550,2,Orange,355
+551,2,Orangevale,77
+552,2,Oregon House,1
+553,2,Orinda,140
+554,2,Oroville,48
+555,2,Owensville,1
+556,2,Oxnard,140
+557,2,Pacheco,6
+558,2,Pacific Palisades,11
+559,2,Pacifica,29
+560,2,Pacoima,81
+561,2,Paicines,4
+562,2,Pala,24
+563,2,Palermo,4
+564,2,Palm Desert,24
+565,2,Palm Springs,10
+566,2,Palmdale,80
+567,2,Palo Alto,257
+568,2,Palos Verdes Peninsula,5
+569,2,Panorama City,7
+570,2,Paramount,8
+571,2,Pasadena,194
+572,2,Pataskala,2
+573,2,Patterson,19
+574,2,Pauma Valley,23
+575,2,Pearblossom,4
+576,2,Pebble Beach,12
+577,2,Peebles,1
+578,2,Penn Valley,37
+579,2,Penngrove,25
+580,2,Penryn,8
+581,2,Perris,153
+582,2,Pescadero,15
+583,2,Petaluma,416
+584,2,Phelan,47
+585,2,Pickerington,2
+586,2,Pico Rivera,13
+587,2,Pilot Hill,4
+588,2,Pine Grove,21
+589,2,Pine Valley,8
+590,2,Pinole,10
+591,2,Pinon Hills,26
+592,2,Pioneer,13
+593,2,Piru,5
+594,2,Pittsburg,293
+595,2,Placentia,34
+596,2,Placerville,208
+597,2,Playa Del Rey,1
+598,2,Playa del Rey,1
+599,2,Pleasant Grove,8
+600,2,Pleasant Hill,11
+601,2,Pleasanton,40
+602,2,Plymouth,18
+603,2,Point Mugu Nawc,6
+604,2,Point Reyes Station,14
+605,2,Pollock Pines,26
+606,2,Pomona,372
+607,2,Pope Valley,21
+608,2,Port Costa,1
+609,2,Port Hueneme,1
+610,2,Porter Ranch,92
+611,2,Portola Valley,12
+612,2,Potrero,9
+613,2,Potter Valley,3
+614,2,Poway,20
+615,2,Princeton,4
+616,2,Ramona,134
+617,2,Ranchita,2
+618,2,Rancho Cordova,242
+619,2,Rancho Cucamonga,164
+620,2,Rancho Dominguez,4
+621,2,Rancho Mirage,5
+622,2,Rancho Murieta,2
+623,2,Rancho Palos Verdes,1
+624,2,Rancho Santa Fe,26
+625,2,Rancho Santa Margarita,12
+626,2,Redlands,87
+627,2,Redondo Beach,4
+628,2,Redwood City,304
+629,2,Redwood Valley,5
+630,2,Rescue,8
+631,2,Reseda,8
+632,2,Reynoldsburg,4
+633,2,Rialto,69
+634,2,Richmond,45
+635,2,Rimforest,4
+636,2,Rio Linda,88
+637,2,Rio Vista,44
+638,2,Ripon,90
+639,2,Riverside,724
+640,2,Rocklin,52
+641,2,Rodeo,46
+642,2,Rohnert Park,63
+643,2,Rolling Hills Estates,3
+644,2,Rosemead,82
+645,2,Roseville,136
+646,2,Rough And Ready,5
+647,2,Rough and Ready,2
+648,2,Rowland Heights,540
+649,2,Royal Oaks,35
+650,2,Rumsey,2
+651,2,Running Springs,27
+652,2,Sabina,1
+653,2,Sacramento,3512
+654,2,Saint Helena,62
+655,2,Salida,58
+656,2,Salinas,318
+657,2,San Andreas,47
+658,2,San Anselmo,1
+659,2,San Bernardino,346
+660,2,San Bruno,35
+661,2,San Carlos,46
+662,2,San Clemente,9
+663,2,San Diego,1027
+664,2,San Dimas,130
+665,2,San Fernando,19
+666,2,San Francisco,555
+667,2,San Gabriel,48
+668,2,San Gregorio,6
+669,2,San Jacinto,35
+670,2,San Jose,1725
+671,2,San Juan Bautista,71
+672,2,San Juan Capistrano,42
+673,2,San Leandro,110
+674,2,San Lorenzo,79
+675,2,San Marcos,194
+676,2,San Marino,11
+677,2,San Martin,40
+678,2,San Mateo,487
+679,2,San Pablo,45
+680,2,San Pedro,60
+681,2,San Quentin,3
+682,2,San Rafael,249
+683,2,San Ramon,21
+684,2,San Ysidro,21
+685,2,Santa Ana,292
+686,2,Santa Barbara,222
+687,2,Santa Clara,324
+688,2,Santa Clarita,99
+689,2,Santa Cruz,207
+690,2,Santa Fe Springs,50
+691,2,Santa Monica,35
+692,2,Santa Paula,47
+693,2,Santa Rosa,739
+694,2,Santa Rosa Valley,3
+695,2,Santa Ysabel,13
+696,2,Santee,86
+697,2,Saratoga,59
+698,2,Sardinia,1
+699,2,Sausalito,102
+700,2,Scotts Valley,74
+701,2,Seal Beach,18
+702,2,Seaside,31
+703,2,Sebastopol,95
+704,2,Sheridan,9
+705,2,Sherman Oaks,310
+706,2,Shingle Springs,106
+707,2,Sierra City,4
+708,2,Signal Hill,6
+709,2,Silverado,16
+710,2,Simi Valley,104
+711,2,Skyforest,8
+712,2,Sloughhouse,25
+713,2,Smartsville,4
+714,2,Solana Beach,2
+715,2,Soledad,52
+716,2,Somerset,8
+717,2,Somis,29
+718,2,Sonoma,177
+719,2,Soquel,60
+720,2,South El Monte,142
+721,2,South Gate,17
+722,2,South Pasadena,44
+723,2,South San Francisco,142
+724,2,Southeast Marin,6
+725,2,Spring Valley,245
+726,2,Springboro,3
+727,2,Stanford,10
+728,2,Stanton,3
+729,2,Stevenson Ranch,53
+730,2,Stevinson,7
+731,2,Stockton,621
+732,2,Stonyford,1
+733,2,Studio City,121
+734,2,Sugarloaf,2
+735,2,Suisun City,25
+736,2,Summerland,5
+737,2,Sun City,12
+738,2,Sun Valley,53
+739,2,Sunbury,1
+740,2,Sunland,4
+741,2,Sunnyvale,312
+742,2,Sunol,43
+743,2,Sunset Beach,1
+744,2,Sutter,1
+745,2,Sutter Creek,12
+746,2,Sylmar,49
+747,2,Tarzana,98
+748,2,Tecate,3
+749,2,Temecula,90
+750,2,Temple City,10
+751,2,The Sea Ranch,2
+752,2,Thousand Oaks,51
+753,2,Thousand Palms,30
+754,2,Tiro,1
+755,2,Toluca Lake,33
+756,2,Tomales,5
+757,2,Topanga,35
+758,2,Torrance,173
+759,2,Trabuco Canyon,17
+760,2,Tracy,235
+761,2,Travis Afb,1
+762,2,Tujunga,18
+763,2,Turlock,79
+764,2,Tustin,129
+765,2,Twin Peaks,13
+766,2,Ukiah,29
+767,2,Union City,5
+768,2,Universal City,9
+769,2,Upland,88
+770,2,Upper Lake,11
+771,2,Urbancrest,1
+772,2,Vacaville,50
+773,2,Valencia,57
+774,2,Vallejo,149
+775,2,Valley Center,65
+776,2,Valley Ford,1
+777,2,Valley Springs,84
+778,2,Valley Village,100
+779,2,Valyermo,71
+780,2,Van Nuys,14
+781,2,Venice,5
+782,2,Ventura,212
+783,2,Vermilion,1
+784,2,Vernalis,14
+785,2,Vernon,13
+786,2,Victorville,29
+787,2,View Park,20
+788,2,Vista,164
+789,2,Volcano,5
+790,2,Walnut,132
+791,2,Walnut Creek,105
+792,2,Walnut Grove,30
+793,2,Warner Springs,6
+794,2,Waterford,6
+795,2,Watsonville,197
+796,2,Waynesville,1
+797,2,West Covina,79
+798,2,West Hills,1
+799,2,West Hollywood,2
+800,2,West Point,2
+801,2,West Sacramento,62
+802,2,Westerville,8
+803,2,Westlake Village,75
+804,2,Westminster,49
+805,2,Wheatland,4
+806,2,Whitewater,2
+807,2,Whittier,504
+808,2,Wildomar,8
+809,2,Williams,6
+810,2,Williamsburg,1
+811,2,Willits,31
+812,2,Willows,4
+813,2,Wilmington,15
+814,2,Wilton,49
+815,2,Winchester,68
+816,2,Windsor,50
+817,2,Windsor Hills,2
+818,2,Winnetka,5
+819,2,Winters,22
+820,2,Winton,24
+821,2,Woodacre,2
+822,2,Woodbridge,3
+823,2,Woodland,68
+824,2,Woodland Hills,194
+825,2,Woodside,5
+826,2,Wrightwood,17
+827,2,Xenia,1
+828,2,Yorba Linda,19
+829,2,Yorkville,3
+830,2,Yountville,7
+831,2,Yuba City,6
+832,2,Yucaipa,14
+833,2,Yucca Valley,21
+834,2,Zamora,4
+835,3,Acton,3
+836,3,Agoura Hills,2
+837,3,Akron,11
+838,3,Alamo,146
+839,3,Alhambra,224
+840,3,Alpine,23
+841,3,Alta,11
+842,3,Altadena,2
+843,3,American Canyon,51
+844,3,Anaheim,170
+845,3,Antelope,2
+846,3,Applegate,7
+847,3,Aptos,1
+848,3,Arbuckle,3
+849,3,Arcadia,156
+850,3,Auburn,57
+851,3,Azusa,212
+852,3,Baldwin Park,711
+853,3,Banning,46
+854,3,Barberton,5
+855,3,Beaumont,40
+856,3,Bell Gardens,120
+857,3,Bellflower,2
+858,3,Belmont,27
+859,3,Benicia,108
+860,3,Berkeley,394
+861,3,Bloomingburg,1
+862,3,Bloomington,100
+863,3,Bonita,7
+864,3,Bonsall,15
+865,3,Boulevard,12
+866,3,Bowling Green,4
+867,3,Brea,2
+868,3,Brentwood,2
+869,3,Brookpark,1
+870,3,Buena Park,29
+871,3,Burbank,234
+872,3,Burlingame,42
+873,3,Byron,1
+874,3,Cabazon,31
+875,3,Calabasas,6
+876,3,Calimesa,29
+877,3,Calistoga,2
+878,3,Camarillo,3
+879,3,Camp Pendleton,60
+880,3,Campbell,2
+881,3,Campo,5
+882,3,Canyon Country,5
+883,3,Capistrano Beach,13
+884,3,Capitola,2
+885,3,Cardiff By the Sea,68
+886,3,Carlsbad,145
+887,3,Carmichael,1
+888,3,Carpinteria,1
+889,3,Carson,252
+890,3,Castaic,75
+891,3,Castro Valley,192
+892,3,Cathedral City,2
+893,3,Cedar Glen,1
+894,3,Ceres,1
+895,3,Cerritos,202
+896,3,Chatsworth,4
+897,3,Chino,3
+898,3,Chino Hills,1
+899,3,Chula Vista,160
+900,3,Citrus Heights,66
+901,3,City Of Industry,44
+902,3,Claremont,88
+903,3,Cleveland,12
+904,3,Colfax,23
+905,3,Colton,315
+906,3,Columbus,98
+907,3,Commerce,3
+908,3,Compton,72
+909,3,Concord,72
+910,3,Cool,1
+911,3,Corona,290
+912,3,Corte Madera,3
+913,3,Costa Mesa,118
+914,3,Covina,90
+915,3,Crockett,61
+916,3,Culver City,258
+917,3,Cupertino,119
+918,3,Daly City,118
+919,3,Danville,121
+920,3,Davis,227
+921,3,Dayton,39
+922,3,Del Mar,59
+923,3,Descanso,4
+924,3,Desert Hot Springs,42
+925,3,Diamond Bar,6
+926,3,Diamond Springs,1
+927,3,Dixon,157
+928,3,Downey,523
+929,3,Duarte,117
+930,3,Dublin,182
+931,3,Dunnigan,20
+932,3,Dutch Flat,5
+933,3,El Cajon,158
+934,3,El Cerrito,17
+935,3,El Dorado Hills,3
+936,3,El Monte,207
+937,3,El Segundo,42
+938,3,El Sobrante,1
+939,3,Elk Grove,82
+940,3,Elyria,2
+941,3,Emeryville,283
+942,3,Emigrant Gap,5
+943,3,Encinitas,128
+944,3,Encino,4
+945,3,Escalon,1
+946,3,Escondido,252
+947,3,Fair Oaks,2
+948,3,Fairborn,2
+949,3,Fairfield,578
+950,3,Fallbrook,108
+951,3,Fillmore,1
+952,3,Findlay,1
+953,3,Firebaugh,21
+954,3,Folsom,1
+955,3,Fontana,226
+956,3,Foresthill,1
+957,3,Fountain Valley,90
+958,3,Fremont,632
+959,3,French Camp,65
+960,3,Galena,2
+961,3,Galt,3
+962,3,Garden Grove,6
+963,3,Gardena,428
+964,3,Gilroy,3
+965,3,Glendale,79
+966,3,Glendora,256
+967,3,Goleta,1
+968,3,Granada Hills,56
+969,3,Grand Terrace,45
+970,3,Grass Valley,1
+971,3,Grove City,6
+972,3,Gustine,12
+973,3,Hacienda Heights,5
+974,3,Half Moon Bay,24
+975,3,Hawaiian Gardens,18
+976,3,Hawthorne,229
+977,3,Hayward,589
+978,3,Healdsburg,1
+979,3,Hercules,66
+980,3,Hesperia,137
+981,3,Highland,3
+982,3,Hollister,4
+983,3,Huntington Beach,50
+984,3,Hurricane,1
+985,3,Independence,6
+986,3,Indio,12
+987,3,Inglewood,336
+988,3,Irvine,464
+989,3,Julian,1
+990,3,La Canada Flintridge,67
+991,3,La Crescenta,72
+992,3,La Jolla,88
+993,3,La Mesa,107
+994,3,La Mirada,6
+995,3,La Palma,1
+996,3,La Puente,142
+997,3,La Verne,4
+998,3,Lafayette,2
+999,3,Laguna Hills,34
+1000,3,Laguna Niguel,18
+1001,3,Lake Elsinore,99
+1002,3,Lake Forest,66
+1003,3,Lakeside,2
+1004,3,Lakewood,56
+1005,3,Lathrop,135
+1006,3,Lawndale,117
+1007,3,Lemon Grove,4
+1008,3,Lima,2
+1009,3,Linden,1
+1010,3,Livermore,519
+1011,3,Livingston,1
+1012,3,Lodi,43
+1013,3,Loma Linda,23
+1014,3,Long Beach,986
+1015,3,Loomis,18
+1016,3,Los Alamitos,82
+1017,3,Los Altos,125
+1018,3,Los Angeles,5178
+1019,3,Los Banos,11
+1020,3,Los Gatos,8
+1021,3,Lynwood,302
+1022,3,Madison,2
+1023,3,Mansfield,1
+1024,3,Manteca,4
+1025,3,Maple Heights,2
+1026,3,March Air Reserve Base,42
+1027,3,Marina,1
+1028,3,Martinez,118
+1029,3,Maxwell,2
+1030,3,McClellan,1
+1031,3,Mendota,12
+1032,3,Menifee,52
+1033,3,Menlo Park,5
+1034,3,Miamisburg,3
+1035,3,Milan,1
+1036,3,Mill Valley,2
+1037,3,Millbrae,8
+1038,3,Millersport,1
+1039,3,Milpitas,248
+1040,3,Mira Loma,145
+1041,3,Mission Hills,120
+1042,3,Mission Viejo,106
+1043,3,Modesto,2
+1044,3,Monrovia,147
+1045,3,Montara,1
+1046,3,Montclair,100
+1047,3,Montebello,1
+1048,3,Monterey Park,58
+1049,3,Montrose,28
+1050,3,Moreno Valley,40
+1051,3,Morgan Hill,3
+1052,3,Mount Sterling,2
+1053,3,Mountain View,3
+1054,3,Mt Baldy,5
+1055,3,Murrieta,108
+1056,3,Napa,3
+1057,3,National City,151
+1058,3,Newark,199
+1059,3,Newcastle,40
+1060,3,Newhall,137
+1061,3,Newman,11
+1062,3,Norco,59
+1063,3,Norden,1
+1064,3,North Highlands,74
+1065,3,North Hills,148
+1066,3,North Hollywood,7
+1067,3,North Olmsted,1
+1068,3,Norwalk,427
+1069,3,Novato,6
+1070,3,Oak Hills,2
+1071,3,Oakland,1407
+1072,3,Oceanside,168
+1073,3,Ontario,545
+1074,3,Orange,114
+1075,3,Orangevale,1
+1076,3,Oregonia,1
+1077,3,Orient,2
+1078,3,Oroville,1
+1079,3,Oxnard,1
+1080,3,Pacheco,1
+1081,3,Pacifica,1
+1082,3,Pacoima,230
+1083,3,Palm Desert,33
+1084,3,Palmdale,1
+1085,3,Palo Alto,9
+1086,3,Paramount,153
+1087,3,Pasadena,394
+1088,3,Patterson,36
+1089,3,Penryn,16
+1090,3,Perris,82
+1091,3,Petaluma,4
+1092,3,Phelan,6
+1093,3,Pickerington,5
+1094,3,Pico Rivera,4
+1095,3,Pine Grove,1
+1096,3,Pine Valley,18
+1097,3,Pinole,102
+1098,3,Pinon Hills,1
+1099,3,Piqua,3
+1100,3,Pittsburg,1
+1101,3,Placerville,4
+1102,3,Pleasant Hill,90
+1103,3,Pleasanton,478
+1104,3,Plymouth,1
+1105,3,Pomona,266
+1106,3,Porter Ranch,2
+1107,3,Portola Valley,13
+1108,3,Potrero,1
+1109,3,Ramona,2
+1110,3,Rancho Cordova,3
+1111,3,Rancho Cucamonga,74
+1112,3,Rancho Mirage,1
+1113,3,Redlands,220
+1114,3,Redondo Beach,8
+1115,3,Redwood City,140
+1116,3,Reynoldsburg,1
+1117,3,Rialto,2
+1118,3,Richmond,321
+1119,3,Rio Vista,1
+1120,3,Ripon,1
+1121,3,Riverside,535
+1122,3,Rocklin,55
+1123,3,Rodeo,21
+1124,3,Rosemead,83
+1125,3,Roseville,208
+1126,3,Rowland Heights,17
+1127,3,Sacramento,1708
+1128,3,Saint Helena,1
+1129,3,Salinas,3
+1130,3,San Bernardino,606
+1131,3,San Bruno,114
+1132,3,San Carlos,8
+1133,3,San Clemente,183
+1134,3,San Diego,2244
+1135,3,San Dimas,111
+1136,3,San Fernando,47
+1137,3,San Francisco,729
+1138,3,San Gabriel,56
+1139,3,San Jacinto,1
+1140,3,San Jose,1294
+1141,3,San Juan Capistrano,61
+1142,3,San Leandro,368
+1143,3,San Lorenzo,98
+1144,3,San Marcos,11
+1145,3,San Martin,2
+1146,3,San Mateo,19
+1147,3,San Pablo,200
+1148,3,San Pedro,40
+1149,3,San Quentin,22
+1150,3,San Rafael,33
+1151,3,San Ramon,87
+1152,3,San Ysidro,42
+1153,3,Santa Ana,198
+1154,3,Santa Barbara,5
+1155,3,Santa Clara,27
+1156,3,Santa Cruz,2
+1157,3,Santa Fe Springs,263
+1158,3,Santa Monica,135
+1159,3,Santa Paula,2
+1160,3,Santa Rosa,5
+1161,3,Santee,1
+1162,3,Saratoga,1
+1163,3,Sausalito,4
+1164,3,Seal Beach,154
+1165,3,Seville,1
+1166,3,Sherman Oaks,257
+1167,3,Shingle Springs,2
+1168,3,Signal Hill,21
+1169,3,Soda Springs,8
+1170,3,Solana Beach,25
+1171,3,Soledad,2
+1172,3,South El Monte,65
+1173,3,South Gate,123
+1174,3,South Pasadena,1
+1175,3,South San Francisco,68
+1176,3,Spring Valley,1
+1177,3,Springfield,2
+1178,3,Stevenson Ranch,14
+1179,3,Stockton,265
+1180,3,Strongsville,1
+1181,3,Studio City,3
+1182,3,Sun City,46
+1183,3,Sun Valley,233
+1184,3,Sunbury,1
+1185,3,Sunland,48
+1186,3,Sunnyvale,2
+1187,3,Sunol,151
+1188,3,Sylmar,387
+1189,3,Tarzana,1
+1190,3,Temecula,274
+1191,3,Thousand Oaks,1
+1192,3,Thousand Palms,33
+1193,3,Tipp City,1
+1194,3,Torrance,173
+1195,3,Tracy,517
+1196,3,Troy,1
+1197,3,Tujunga,6
+1198,3,Turlock,1
+1199,3,Tustin,206
+1200,3,Twin Peaks,1
+1201,3,Union City,171
+1202,3,Upland,29
+1203,3,Upper Lake,1
+1204,3,Vacaville,222
+1205,3,Valencia,115
+1206,3,Vallejo,283
+1207,3,Valley Center,2
+1208,3,Valley Village,1
+1209,3,Valyermo,1
+1210,3,Van Nuys,245
+1211,3,Vandalia,1
+1212,3,Ventura,4
+1213,3,Victorville,35
+1214,3,Vista,27
+1215,3,Walnut,2
+1216,3,Walnut Creek,265
+1217,3,Walnut Grove,8
+1218,3,Watsonville,1
+1219,3,West Contra Costa,1
+1220,3,West Covina,332
+1221,3,West Sacramento,196
+1222,3,Westerville,5
+1223,3,Westlake Village,1
+1224,3,Westminster,131
+1225,3,Whitewater,27
+1226,3,Whittier,515
+1227,3,Wildomar,28
+1228,3,Willows,9
+1229,3,Wilmington,44
+1230,3,Winchester,1
+1231,3,Winters,14
+1232,3,Woodland,57
+1233,3,Woodland Hills,5
+1234,3,Woodside,2
+1235,3,Yucaipa,22
+1236,3,Zamora,4
+1237,3,Zanesville,1
+1238,4,Burbank,1
+1239,4,Calistoga,1
+1240,4,Colton,1
+1241,4,Columbus,1
+1242,4,Crockett,1
+1243,4,Culver City,1
+1244,4,Danville,1
+1245,4,Downey,1
+1246,4,Dublin,1
+1247,4,El Monte,1
+1248,4,Emeryville,1
+1249,4,Fairfield,1
+1250,4,Hawthorne,1
+1251,4,Hercules,1
+1252,4,Irvine,1
+1253,4,Livermore,1
+1254,4,Long Beach,1
+1255,4,Los Angeles,3
+1256,4,Monterey Park,1
+1257,4,Montrose,1
+1258,4,Pacoima,1
+1259,4,Royal Oaks,1
+1260,4,Sacramento,1
+1261,4,San Bruno,1
+1262,4,San Diego,2
+1263,4,San Jose,2
+1264,4,San Leandro,1
+1265,4,Santa Ana,1
+1266,4,Sylmar,1
